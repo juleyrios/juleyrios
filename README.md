@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Juleisy 👋
 
-<!--
-**juleyrios/juleyrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in data entry, IT support, and cybersecurity.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Microsoft Excel
+* Microsoft Word
+* Data Entry & Data Management
+* Documentation
+* Customer Service
+* HTML / CSS / JavaScript
+* Git & GitHub
+
+### Certifications
+
+* Google IT Support Professional Certificate
+
+### Featured Projects
+
+* 📊 Data Entry & Excel Practice
+* 🗂️ Data Management Project
+* 🛠️ IT Troubleshooting Knowledge Base
+* 🌐 Web Development Project
+
+### Contact
+
+📧 [juleypre@gmail.com](mailto:juleypre@gmail.com)
